@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/mitss/public_html/
-    - /bin/cp * $DEPLOYPATH
+    - export DEPLOYPATH=/home/mits11/public_html/
+    - /bin/cp index.html $DEPLOYPATH
    
